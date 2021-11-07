@@ -19,7 +19,7 @@ public class conexion {
     public Connection conexionFunc(){
         String url = "jdbc:mysql://localhost:3306/ExamenFinalProgra2B-2";
         String usuario = "root";
-        String contrasenia = "secret";
+        String contrasenia = "";
         
          try {
             Class.forName("com.mysql.jdbc.Driver");

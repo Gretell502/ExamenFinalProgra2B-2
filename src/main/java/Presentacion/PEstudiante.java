@@ -15,6 +15,7 @@ public class PEstudiante extends javax.swing.JInternalFrame {
      * Creates new form PEstudiante
      */
     public PEstudiante() {
+        
         initComponents();
     }
 
