@@ -27,8 +27,7 @@ public class conexion {
             Logger.getLogger(conexion.class.getName()).log(Level.SEVERE, null, ex);
         } catch (SQLException ex) {
             Logger.getLogger(conexion.class.getName()).log(Level.SEVERE, null, ex);
-        }
-         
+        }         
         return conectar;
     }        
     
